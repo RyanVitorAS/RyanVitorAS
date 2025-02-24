@@ -7,7 +7,7 @@ ________________________________________________________________________________
 - 👀 Sou bastante interresado no mundo dos jogos
 - 🤓 Estou atualmente estudando programaçao
 - (•_•) Pronomes: Ele/Dele
-- ⚡ um fato bacana aqui:mim saber muito!
+- ⚡ um fato bacana aqui: mim sabo muito!
 
 <!---
 RyanVitorAS/RyanVitorAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
