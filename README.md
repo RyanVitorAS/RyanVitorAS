@@ -1,13 +1,13 @@
 
-Bem-vindo(a) ao meu GitHub ◉_◉
+Bem-vindo(a) ao meu GitHub!
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 - 👋 Aoba,meu nome é Ryan vitor
 - 👀 Sou bastante interresado no mundo dos jogos
 - 🤓 Estou atualmente estudando programaçao
-- (•_•) Pronomes: Ele/Dele
-- ⚡ um fato bacana aqui: mim sabo muito!
+- 🎓 Vivendo e aprendendo
+- 📖 I know a little of english
 
 <!---
 RyanVitorAS/RyanVitorAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
